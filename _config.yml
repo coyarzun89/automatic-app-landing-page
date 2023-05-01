@@ -72,8 +72,8 @@ social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
 # Analytics
-google_analytics: G-T5HM7H3579
-
+ga_tracking: G-T5HM7H3579
+ga_tracking_anonymize_ip: true
 
 
 
