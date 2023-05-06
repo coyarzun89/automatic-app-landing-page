@@ -35,6 +35,49 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : What is Shorin ryu?
+    description                           : Shōrin-ryū is one of the major modern Okinawan martial arts and is one of the oldest styles of karate. It was named by Choshin Chibana in 1933, but the system itself is much older.
+    fontawesome_icon_name                 : torii-gate
+
+  - title                                 : Who was Chōshin Chibana?
+    description                           : Chōshin Chibana was a top student of the great master of shuri-te, Ankō Itosu. Ankō Itosu was the top student of Matsumura Sōkon, who was a renowned warrior in his time.
+    fontawesome_icon_name                 : fist-raised
+
+  - title                                 : What are the main branches of Shorin ryu?
+    description                           : There are currently four major branches of Shōrin-ryū Karate practiced in the world today, Kobayashi-Ryu, Shobayashi-Ryu, Matsubyashi Ryu and Matsumura Seito.
+    fontawesome_icon_name                 : code-branch
+
+  - title                                 : What are the active schools of Shorin ryu?
+    description                           : 
+        "Some of the active schools are:
+        <br/>
+        Shōrin-ryū Shidōkan
+        <br/>
+        Shōrin-ryū Shōrinkan
+        <br/>
+        Shōrin-ryū Kyudōkan
+        <br/>
+        Shorin-Ryu Reihokan
+        <br/>
+        Matsubayashi-ryū
+        <br/>
+        Shōbayashi Shōrin-ryū
+        <br/>
+        Jyoshinmon Shōrin-ryū
+        <br/>
+        Yoshudokai Shorin-ryu
+        <br/>
+        Shubukan Shōrin-ryu"
+    fontawesome_icon_name                 : school
+
+  - title                                 : What does this app?
+    description                           : Provide you curated content around different Katas. You’ll be able to watch videos where a sensei executes a kata and some others where they are teaching or making corrections to their students.
+    fontawesome_icon_name                 : mobile-alt
+
+  - title                                 : Do I have to pay something?
+    description                           : All the content is free and available on Youtube. This app is only organizing and curating the content.
+    fontawesome_icon_name                 : film
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
@@ -54,7 +97,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#c71d0e"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -63,7 +106,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#c71d0e"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
